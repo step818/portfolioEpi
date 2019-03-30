@@ -1,0 +1,81 @@
+.jumbotron {
+  margin-top: 15px;
+  margin-left: 0px;
+  background-color: lightgrey;
+  padding: 20px;
+  font-family: cursive;
+}
+
+.sub-intro {
+  margin-left: 150px;
+  padding: 5px;
+}
+
+body {
+  background-color: #009933;
+}
+
+.aboutme {
+  font-size: inherit;
+  position: absolute;
+  top: 0;
+  width: 180px;
+  left: 0;
+  border-right: solid black 1px;
+  padding-left: 200px;
+  margin:  22em 1em 0.7em;
+  padding: 0.25em 0;
+  direction: ltr;
+}
+
+.hobbies {
+  font-size: 23px;
+  word-wrap: break-word;
+}
+
+[src="img/tree pose.jpg"] {
+  border: solid 2px black;
+  padding: 3px;
+  width: 200px;
+  height: 200px;
+  float: right;
+  border-radius: 110px;
+}
+
+.project-titles {
+  position: relative;
+  margin-left: 150px;
+  margin-top: 5px;
+  text-align:center;
+  background-color: #9fdfbf;
+  padding: 20px;
+  border-radius: 30px;
+
+}
+
+
+.ieborder {
+  border: solid orange;
+  padding: 3px;
+  width: 4px;
+  background-color: skyblue;
+}
+
+.iecolor {
+  color: red;
+}
+
+.gh {
+  font-family: fantasy;
+  color: red;
+}
+
+.goals {
+  margin-left: 200px;
+  border: dashed 3px #cc6600;
+  margin-bottom: 20px;
+  background-color: #dd99ff;
+  border-radius: 20px;
+  padding: 10px;
+  margin-top: 7px;
+}
