@@ -12,7 +12,7 @@ _My first independent project at Epicodus. It is a webpage about my current proj
 
 * _Load the web page_
 
-_You need a web browser that can handle HTML 5_
+_You need a web browser that can handle HTML_
 
 
 ## Support and contact details
