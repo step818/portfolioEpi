@@ -10,7 +10,7 @@ _My first independent project at Epicodus. It is a webpage about my current proj
 
 ## Setup/Installation Requirements
 
-* _Load the web page, [Link to gh-pages](https://github.com/step818/portfolioEpi.git)_
+* _Load the web page, [Link to gh-pages](https://step818.github.io/portfolioEpi/)_
 
 _You need a web browser that can handle HTML_
 
